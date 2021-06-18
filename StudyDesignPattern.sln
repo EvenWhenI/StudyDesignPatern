@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterDesignPattern", "AdapterDesignPatern\AdapterDesignPattern.csproj", "{86D8006C-7EEE-4BB1-AA90-DB75F2366022}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadeDesignPattern", "FacadeDesignParten\FacadeDesignPattern.csproj", "{0F10489F-5F6D-42D5-B148-9B4225F0F274}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.StructuralPattern", "2.StructuralPattern", "{5E9BCE48-6BAA-4185-9241-901DC7067D9D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.CreationalPattern", "1.CreationalPattern", "{2C12F492-5A1E-49B5-90E4-BA0FF5D605F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.BehavioralPattern", "3.BehavioralPattern", "{4161AEC3-EDAC-4E4D-B416-75F25F5C2F62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86D8006C-7EEE-4BB1-AA90-DB75F2366022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D8006C-7EEE-4BB1-AA90-DB75F2366022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D8006C-7EEE-4BB1-AA90-DB75F2366022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D8006C-7EEE-4BB1-AA90-DB75F2366022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F10489F-5F6D-42D5-B148-9B4225F0F274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F10489F-5F6D-42D5-B148-9B4225F0F274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F10489F-5F6D-42D5-B148-9B4225F0F274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F10489F-5F6D-42D5-B148-9B4225F0F274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{86D8006C-7EEE-4BB1-AA90-DB75F2366022} = {5E9BCE48-6BAA-4185-9241-901DC7067D9D}
+		{0F10489F-5F6D-42D5-B148-9B4225F0F274} = {5E9BCE48-6BAA-4185-9241-901DC7067D9D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC7491B7-0960-4E10-81C3-47AF92813BBA}
+	EndGlobalSection
+EndGlobal
